@@ -1,3 +1,3 @@
 class Sarath{
-    name = "Testing branches in sarath branch";
+   name = "Testing branches in sarath branch";
 }
