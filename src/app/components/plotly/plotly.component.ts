@@ -28,7 +28,7 @@ export class PlotlyComponent implements OnInit {
   public layout3: any;
 
   /* The plot target container. */
-  @ViewChild('plotContainer') plotContainer: ElementRef;
+  @ViewChild('plotContainer') plotContainer:ElementRef;
 
   constructor() {}
 
